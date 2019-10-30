@@ -7,6 +7,7 @@
 * A bit on unit testing with Jasmine
 
 +Memory game
+
 +Chrone
 
 # Today - day w2d3
@@ -16,7 +17,8 @@
 * A bit on unit testing with Jasmine
 
 +Lab related to work more on unit tests and scopes (Koans)
-+Lab related to DOM manipulation with callbacks and async operations
+
++Lab related to how queues and stacks work using closures, scope, context, method invocation...
 
 # Goals
 
