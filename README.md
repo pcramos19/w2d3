@@ -27,6 +27,10 @@
 * Work with functions in a more comprehensive way and use callbacks
 * Learn about what `this` means
 
+# Today's micro-learning
+
+Threejs from 3.30 to 4.10 🚀
+
 # Bonus
 
 Come on guys! You are rockstars!
