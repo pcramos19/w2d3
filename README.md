@@ -2,9 +2,9 @@
 
 # Yesterday - day w2d2
 
-* Talk about asynchronicity and callbacks
-* Debugging using the developer console
-* A bit on unit testing with Jasmine
+* Talk about asynchronicity and callbacks and provide examples both in the browser and node
+* Talk about the developer console and its features
+* Multiple examples on unit testing with Jasmine
 
 ## Activities 
 * Memory game
@@ -15,6 +15,7 @@
 * Review function declaration types
 * Context and function invocation using bind, apply, call
 * Closures and scope in javascript
+* Talk a bit about try/catch
 
 ## Activities 
 * Lab related to work more on unit tests and scopes (Koans)
@@ -27,6 +28,8 @@
 * Learn about what `this` means
 
 # Bonus
+
+Come on guys! You are rockstars!
 
 More info about closures, curry and function programming
 https://medium.com/sngular-devs/from-closures-to-curry-and-compose-197d2abcadd8
