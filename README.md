@@ -33,3 +33,15 @@ Come on guys! You are rockstars!
 
 More info about closures, curry and function programming
 https://medium.com/sngular-devs/from-closures-to-curry-and-compose-197d2abcadd8
+
+truthy and falsy
+https://www.sitepoint.com/javascript-truthy-falsy/
+
+desktop apps by the face
+https://electronjs.org/
+
+reality and taxonomies
+https://observablehq.com/@d3/zoomable-circle-packing
+
+react native - mobile apps
+https://facebook.github.io/react-native/
