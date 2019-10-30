@@ -6,28 +6,27 @@
 * Debugging using the developer console
 * A bit on unit testing with Jasmine
 
-+Memory game
-
-+Chrone
+## Activities 
+* Memory game
+* Chronometer
 
 # Today - day w2d3
 
-* Talk about asynchronicity and callbacks
-* Debugging using the developer console, error handling with try/catch, JS Hint
-* A bit on unit testing with Jasmine
+* Review function declaration types
+* Context and function invocation using bind, apply, call
+* Closures and scope in javascript
 
-+Lab related to work more on unit tests and scopes (Koans)
-
-+Lab related to how queues and stacks work using closures, scope, context, method invocation...
+## Activities 
+* Lab related to work more on unit tests and scopes (Koans)
+* Lab related to how queues and stacks work using closures, scope, context, method invocation...
 
 # Goals
 
-* Pay attention to code quality (QA).
-* Understand js async nature.
-* Work with events.
-* Update DOM in relation to a data model.
+* Understand how to use functions in multiple contexts
+* Work with functions in a more comprehensive way and use callbacks
+* Learn about what `this` means
 
 # Bonus
 
-A journey across all the most important jasmine features
-https://jasmine.github.io/tutorials/your_first_suite
+More info about closures, curry and function programming
+https://medium.com/sngular-devs/from-closures-to-curry-and-compose-197d2abcadd8
