@@ -5,6 +5,7 @@
 * Talk about asynchronicity and callbacks and provide examples both in the browser and node
 * Talk about the developer console and its features
 * Multiple examples on unit testing with Jasmine
+* Threejs microlearning
 
 ## Activities 
 * Memory game
@@ -29,7 +30,7 @@
 
 # Today's micro-learning
 
-Threejs from 3.30 to 4.10 🚀
+Parallax web effects 13:15h with Germán 🚀
 
 # Bonus
 
